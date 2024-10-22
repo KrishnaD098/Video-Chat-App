@@ -17,9 +17,8 @@ A simple video call application built with Node.js and React, allowing users to 
 
 - **Node.js**: For the backend server.
 - **Express**: For handling HTTP requests.
-- **Socket.IO**: For real-time communication.
 - **React**: For the frontend user interface.
-- **Styled Components**: For styling the components.
+- **WebRTC**: A technology that allows real-time communication (audio, video, and data sharing) between browsers without needing an intermediary server.
 
 ## Prerequisites
 
