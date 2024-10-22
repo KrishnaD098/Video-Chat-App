@@ -11,7 +11,7 @@ A simple video call application built with Node.js and React, allowing users to 
 ## Screenshots
 
 ![Home Page](path/to/homepage-image.png)
-![Room Page](REACT-WEBRTC/client/public/HomePage.png)
+![Room Page](public/HomePage.png)
 
 ## Technologies Used
 
@@ -25,9 +25,3 @@ A simple video call application built with Node.js and React, allowing users to 
 
 - Node.js (v12 or higher)
 - npm (Node Package Manager)
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/video-call-app.git
