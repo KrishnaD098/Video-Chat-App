@@ -10,7 +10,7 @@ A simple video call application built with Node.js and React, allowing users to 
 
 ## Screenshots
 
-![Home Page](path/to/homepage-image.png)
+![Home Page](https://github.com/KrishnaD098/Video-Chat-App/blob/main/client/public/LobbyPage.png)
 ![Room Page](https://github.com/KrishnaD098/Video-Chat-App/blob/main/client/public/HomePage.png)
 
 ## Technologies Used
