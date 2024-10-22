@@ -11,7 +11,7 @@ A simple video call application built with Node.js and React, allowing users to 
 ## Screenshots
 
 ![Home Page](path/to/homepage-image.png)
-![Room Page](path/to/room-page-image.png)
+![Room Page](client/public/HomePage.png)
 
 ## Technologies Used
 
